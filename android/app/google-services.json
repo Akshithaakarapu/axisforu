@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162090886386",
+    "project_id": "chatapp-2ecd9",
+    "storage_bucket": "chatapp-2ecd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162090886386:android:deeb16f5ad553268309c6b",
+        "android_client_info": {
+          "package_name": "com.example.axisforu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWfFyb6-2xstigI5WYws1YI-v3W5a2rM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
